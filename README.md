@@ -6,7 +6,7 @@ A demo of GIS mapping using [ArcGIS](https://developers.arcgis.com/)
 
 Steps to build and/or run the software:
 
-1. visit the prod site at [cse-310-personal-module-1.vercel.app]([https://app.vercel.com](https://cse-310-personal-module-1.vercel.app/))
+1. visit the prod site at [cse-310-personal-module-1.vercel.app](https://app.vercel.com](https://cse-310-personal-module-1.vercel.app/)
 
 Instructions for using the software:
 
